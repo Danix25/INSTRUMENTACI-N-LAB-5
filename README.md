@@ -42,3 +42,41 @@ Con base a los principios básicos de anestesiología clínica, se distinguen tr
 <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/6a86fa49-c328-47a5-a8e4-c5220b4e7c70" />
 </div>
 
+## Gases involucrados en una máquina de anestesia
+
+Una máquina de anestesia trabaja principalmente con tres gases medicinales, que cumplen el objetivo de mantener la oxigenación del paciente y transportar los agentes anestésicos volátiles.
+
+**1.Oxigeno (O2):** Este es el principal gas para la vida. La función principal es mantener la oxigenación celular del paciente durante el procedimiento. Además, en máquinas como las de anestesia, el oxigeno suele actuar como gas de arrastre para los agentes anestésicos y como gas motriz para el funcionamiento del fuelle en vnetilación mecánica.
+
+**2. Óxido Nitroso (N2O):** Es un gas con propiedades analgésicas y sedantes que se utiliza como coadyuvante en la anestesia general. Esto va a permitir una reducción de la concentración necesaria de los agentes anestésicos volátiles más potentes, como lo es el isoflurano.
+
+**3. Aire comprimido:** Este se usa principalmente para mezclarlo con el Oxigeno (O2) y así administrar FiO2 (Fracción Inspirada de Oxígeno) menor al 100%, para evitar la toxicidad por oxígeno. Además, esto puede servir como respaldo en caso de fallo de otros gases.
+
+## Gases incorporados en sistemas de alta presión
+
+Los gases anteriormente mencionados se incorporan a la máquina a través de dos sistemas considerados de alta presión.
+
+**1.Pipeline:** También conocido como suministro por Red Central, es la fuente principal donde los gases entran por medio de mangueras conectadas a las tomas de pared del hospital.Teniendo en cuenta el manual para la máquina de anestesia, la presión de entrada debe estar en un rango de 280 a 600 kPa para los gases de O2, N2O y Aire.
+
+<div align="center">
+<img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/9c35deaf-c982-4160-a057-80ea23638d6f" />
+</div>
+
+**2.Suministro por Cilindros:** Llamado tambien como Yokes, se usan como reserva en caso de fallo de la red central. Estos cilindros contienen el gas a presiones significativamente más altas, que la máquina debe reducir internamente mediante reguladores. Para El Oxígeno y el aire se manejan presiones de 6.9 a 20 Mpa y para el N2O se manejan presiones de 4.2 a 6 MPa.
+
+Es importante mencionar que la máquina de anestesia cuenta con manómetros mecánicos que permiten monitorear constantemente la presión de entrada de los tres gases, con el fin de asegurar que se mantengan dentro de los rangos operativos y así evitar alarmas de fallo de suministro.
+
+## Sistema de respiración en la máquina de anestesia
+
+Los sistemas de respiración son esenciales para suministrar oxígeno, eliminar el dióxido de carbono y lograr una profundidad de anestesia adecuada con agentes inhalados. Para las máquinas de anestesía, su función se basa en proporcionar un bluce cerrado para los gases medicinales y anestésicos, permitiendo la ventilación mecánica como la ventilación manual y monitorear parámetros críticos como la presión de las vías respiratorias y el volumen corriente.
+
+## Componentes esterilizables por medio del autoclave
+
+Con base al manual de servicio, se menciona que el sistema de respiración está diseñado para que los componentes principales del equipo sean desmontables y resistentes a procesos de esterilización por calor. Dichas partes pueden ser esterilizadas en autclave a una temperatura de 134°C, de las cuales se pueden mencionar:
+
+- Ensamble del sistema de respiración.
+- Sensores de flujo.
+- Válvulas inspiratoria y expiratoria.
+- Canister (contenedor de Cal Sodada).
+- Fuelle.
+- Tubos corrugados y pieza en Y.
