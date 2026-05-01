@@ -20,6 +20,8 @@ Entre las funciones principales que tienen las máquinas de anestesia son:
 - Ventilación
 - Reducción de la exposición del personal a gases anestésicos.
 
+# PARTE A  
+
 ## Tipos de anestesia
 
 Con base a los principios básicos de anestesiología clínica, se distinguen tres tipos de anestecia que son comunmente usadas durante cirugías.
@@ -106,16 +108,49 @@ Con base a las especificaciones de la máquina de anestesia Mindray WATO EX-20, 
 <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/f718773c-7177-47cd-9d1f-78697466e809" />
 </div>
 
-- **Display Setup:** En este apartado se permite al usuario ajustar los parámetros visuales, como las formas de presión y flujo que se muestran en tiempo real, además del volumen de las alarmas y teclas del equipo.
+- **Modo Ventilación:** Es la interfaz donde el usuario selecciona la estraegia de soporte respiratorio que el equipo aplicará al paciente. Aquí se pueden seleccionar varios modos de ventilación como el manual, VCV (Ventilación controlada por Volumen) o VCP (Ventilación controlado por Presión)
 
-- **Alarm Setup:** Aquí se establecen los límites superior en inferior para las alarmas de presión de las vías respiratorias, volumen corriente (Vt), volumen minuto (Vm) y frecuencia respiratoria.
+- **Ajuste alarma:** Aquí se establecen los límites superior en inferior para las alarmas de presión de las vías respiratorias, volumen corriente (Vt), volumen minuto (Vm) y frecuencia respiratoria.
 
-- **Patient Setup:** En esta zona se ingresa y ajustan los datos del paciente, para que el ventilador sugiera parámetros iniciales.
+- **Ajuste Usuario:** En esta zona se ingresa y ajustan los datos del paciente, para que el ventilador sugiera parámetros iniciales.
 
-- **Mantenimiento:** En este apartado técnico se realizan las calibraciones de algunos componentes de la máquina como los sensores de flujo, sensores de presión y la celda de oxígeno.
-
-- **Servie/Diagnostic:** Esta zona es reservada para el servicio técnico, ya que permite conoce los valores A/D de los sensores y el estado de las válvulas de control
+- **Mantenimiento:** En este apartado técnico se realizan las calibraciones de algunos componentes de la máquina como los sensores de flujo, sensores de presión y la celda de oxígeno. Esta zona es reservada para el servicio técnico, ya que permite conoce los valores A/D de los sensores y el estado de las válvulas de control
 
 ## Activación de pausa inspiratoria
 
-Para activar, desactivar y configurar la pausa inspiratoria, se accede al menú de Configuración de Parámetros, asociado a los modos de ventilación. La pausa inspiratoria se define como el tiempo adicional al final de una inspiración durante el cual la válvula de exhalación permanece cerrada y no hay flujo de gas, lo que permite que la presión se distribuya uniformemente en los pulmones del paciente para medir la presión de meseta. Esto se activa ajustando el parámetro "Plat", donde se representa el porcentaje del tiempo inspiratorio que se dedicará a la pausa.
+Para activar, desactivar y configurar la pausa inspiratoria, se accede al menú de Modo de ventilación. La pausa inspiratoria se define como el tiempo adicional al final de una inspiración durante el cual la válvula de exhalación permanece cerrada y no hay flujo de gas, lo que permite que la presión se distribuya uniformemente en los pulmones del paciente para medir la presión de meseta. Esto se activa ajustando el parámetro "Plat", donde se representa el porcentaje del tiempo inspiratorio que se dedicará a la pausa.
+
+# PARTE B
+
+## Identifiación partes de la máquina de anestesia WATO EX-20
+
+**1.Vaporizador:** Su objetivo es covnertir el agente anestésico líquido en vapor y añadir una cantidad controlada y precisa de este vapor al flujo de gas fresco que va hacia el paciente. Estos se sitúan a un costado de los flujómetros.
+
+<div align="center">
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a7add11e-289c-4d89-ba80-2e5f8ca2c161" />
+</div>
+
+<div align="center">
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/31fff62b-5287-4000-b3d2-dd4fdb6153d9" />
+</div>
+
+**2.Válvula APL** Esta válvula permite al operador ajustar el límite de presión en el circuito respiratorio. Cuando la presión del circuito excede el valor configurado por el usuario, la válcula se abre para liberar el exceso de gas hacia el sistema de evacuación.
+
+<div align="center">
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/bf4f1e0c-450c-4300-b46c-759a10262314" />
+</div>
+
+**3.Recipiente absorbente de CO2:** También conocido como Canister, es el responsable de eliminar el dióxido de carbono. Este contiene cal sodada que tiene la función química de poder eliminar el CO2, proveniente del gas exhalado por el paciente, recirculando de forma segura el sistema de bluce cerrado.
+
+<div align="center">
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/930ae7b7-8a5f-4534-9d2d-69261d3fd152" />
+</div>
+
+**4.Fuelle:** Actúa como la interfaz entre el sistema de gas motriz del ventilador y el gas que respira el paciente durante la ventilación mecánica. Este se comprime para entregar el volumen de gas al paciente y se expande durante la fase de exhalación para almacenar el gas espirado.
+
+<div align="center">
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/3e967af5-157c-4e3c-b09b-6c627171daf4" />
+</div>
+
+# REFERENCIAS.
+
