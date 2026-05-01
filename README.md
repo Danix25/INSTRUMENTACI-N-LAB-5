@@ -59,7 +59,7 @@ Los gases anteriormente mencionados se incorporan a la máquina a través de dos
 **1.Pipeline:** También conocido como suministro por Red Central, es la fuente principal donde los gases entran por medio de mangueras conectadas a las tomas de pared del hospital.Teniendo en cuenta el manual para la máquina de anestesia, la presión de entrada debe estar en un rango de 280 a 600 kPa para los gases de O2, N2O y Aire.
 
 <div align="center">
-<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/188dbe4b-3029-433d-911b-3fed7b1fe5dd" />
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/188dbe4b-3029-433d-911b-3fed7b1fe5dd" />
 </div>
 
 **2.Suministro por Cilindros:** Llamado tambien como Yokes, se usan como reserva en caso de fallo de la red central. Estos cilindros contienen el gas a presiones significativamente más altas, que la máquina debe reducir internamente mediante reguladores. Para El Oxígeno y el aire se manejan presiones de 6.9 a 20 Mpa y para el N2O se manejan presiones de 4.2 a 6 MPa.
@@ -77,7 +77,7 @@ Con base al manual de servicio, se menciona que el sistema de respiración está
 - Ensamble del sistema de respiración.
 
 <div align="center">
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/e2066372-03b5-4ccd-856c-d01f4a558f75" />
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/e2066372-03b5-4ccd-856c-d01f4a558f75" />
 </div>
 
 - Sensores de flujo.
@@ -87,7 +87,7 @@ Con base al manual de servicio, se menciona que el sistema de respiración está
 - Canister (contenedor de Cal Sodada).
 
 <div align="center">
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/db481645-3535-4cb3-a0c4-76006e22dafe" />
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/db481645-3535-4cb3-a0c4-76006e22dafe" />
 </div>
 
 - Fuelle.
