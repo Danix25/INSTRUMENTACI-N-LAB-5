@@ -186,6 +186,10 @@ De acuerdo con el manual, el recipiente absorbente de CO₂ no cuenta con un int
 Adicionalmente, el manual advierte sobre la presencia de polvo de cal sodada. Tras realizar el reemplazo del absorbente, se recomienda limpiar cuidadosamente cualquier residuo en los bordes del recipiente, con el propósito de evitar fugas de gas y garantizar un sellado hermético al reinstalar el componente.
 
 
+
+# PARTE B
+
+
 # REFERENCIAS.
 
 [1] N. G. S. P. Foundation, "General Anesthesia," StatPearls, Treasure Island (FL): StatPearls Publishing, 2024. [En línea]. Disponible: https://www.ncbi.nlm.nih.gov/books/NBK572060/
