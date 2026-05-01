@@ -27,13 +27,13 @@ Con base a los principios básicos de anestesiología clínica, se distinguen tr
 **1. Anestesia general:** Es un tratamiento con medicamentos específicos que ponen al paciente en un estado similar al sueño profundo para que este no sienta dolor durante la cirugia. El estado de inconsciencia inducido farmacológicamente se hace principalmente mediante gases inhalados, a través de la máquina de anestesia o medicamentos intravenosos. Es importante mencionar que se requiere un control estricto de la vía aérea y de los parámetros ventilatorios, lo cual es monitoreado constantemente por las máquinas de anestesia **Mindray WATO.**
 
 <div align="center">
-<img width="500" height="215" alt="image" src="https://github.com/user-attachments/assets/4ad3975e-a51c-4dd9-b4c2-9460ae323ff2" />
+<img width="500" height="315" alt="image" src="https://github.com/user-attachments/assets/4ad3975e-a51c-4dd9-b4c2-9460ae323ff2" />
 </div>
 
 **2. Anestesia regional:** Es un método que se utiliza para bloquear temporalmente la sensibilidad en una zona específica del cuerpo mediante una inyección de anestésicos locales cerca de los nervios principales. Los más conocidos de este método son la epidural y la raquídea. Aquí, el paciente puede permanecer despierto o sedado, manteniendo su propia función respiratoria.
 
 <div align="center">
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/6ae44151-6cbc-4570-9b37-7577407b9deb" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6ae44151-6cbc-4570-9b37-7577407b9deb" />
 </div>
 
 **3. Anestesia local:** Este método bloquea temporalmente el dolor en una pequeña zona del cuerpo. Los profesionales sanitarios la utilizan con frecuencia antes de procedimientos menores, como tratamiento dentales y biopsias. Estas se aplican directamente en el sitio de la incisión con el objetivo de bloquear el dolor de forma superficial, teniendo efectos secundarios leves y complicaciones poco frecuentes.
