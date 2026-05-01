@@ -187,7 +187,7 @@ Adicionalmente, el manual advierte sobre la presencia de polvo de cal sodada. Tr
 
 
 
-# PARTE B
+# PARTE C
 
 
 # REFERENCIAS.
