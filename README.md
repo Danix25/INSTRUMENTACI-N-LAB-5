@@ -48,7 +48,7 @@ Con base a los principios básicos de anestesiología clínica, se distinguen tr
 
 Una máquina de anestesia trabaja principalmente con tres gases medicinales, que cumplen el objetivo de mantener la oxigenación del paciente y transportar los agentes anestésicos volátiles.
 
-**1.Oxigeno (O2):** Este es el principal gas para la vida. La función principal es mantener la oxigenación celular del paciente durante el procedimiento. Además, en máquinas como las de anestesia, el oxigeno suele actuar como gas de arrastre para los agentes anestésicos y como gas motriz para el funcionamiento del fuelle en vnetilación mecánica.
+**1. Oxigeno (O2):** Este es el principal gas para la vida. La función principal es mantener la oxigenación celular del paciente durante el procedimiento. Además, en máquinas como las de anestesia, el oxigeno suele actuar como gas de arrastre para los agentes anestésicos y como gas motriz para el funcionamiento del fuelle en vnetilación mecánica.
 
 **2. Óxido Nitroso (N2O):** Es un gas con propiedades analgésicas y sedantes que se utiliza como coadyuvante en la anestesia general. Esto va a permitir una reducción de la concentración necesaria de los agentes anestésicos volátiles más potentes, como lo es el isoflurano.
 
@@ -58,13 +58,13 @@ Una máquina de anestesia trabaja principalmente con tres gases medicinales, que
 
 Los gases anteriormente mencionados se incorporan a la máquina a través de dos sistemas considerados de alta presión.
 
-**1.Pipeline:** También conocido como suministro por Red Central, es la fuente principal donde los gases entran por medio de mangueras conectadas a las tomas de pared del hospital.Teniendo en cuenta el manual para la máquina de anestesia, la presión de entrada debe estar en un rango de 280 a 600 kPa para los gases de O2, N2O y Aire.
+**1. Pipeline:** También conocido como suministro por Red Central, es la fuente principal donde los gases entran por medio de mangueras conectadas a las tomas de pared del hospital.Teniendo en cuenta el manual para la máquina de anestesia, la presión de entrada debe estar en un rango de 280 a 600 kPa para los gases de O2, N2O y Aire.
 
 <div align="center">
 <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/188dbe4b-3029-433d-911b-3fed7b1fe5dd" />
 </div>
 
-**2.Suministro por Cilindros:** Llamado tambien como Yokes, se usan como reserva en caso de fallo de la red central. Estos cilindros contienen el gas a presiones significativamente más altas, que la máquina debe reducir internamente mediante reguladores. Para El Oxígeno y el aire se manejan presiones de 6.9 a 20 Mpa y para el N2O se manejan presiones de 4.2 a 6 MPa.
+**2. Suministro por Cilindros:** Llamado tambien como Yokes, se usan como reserva en caso de fallo de la red central. Estos cilindros contienen el gas a presiones significativamente más altas, que la máquina debe reducir internamente mediante reguladores. Para El Oxígeno y el aire se manejan presiones de 6.9 a 20 Mpa y para el N2O se manejan presiones de 4.2 a 6 MPa.
 
 Es importante mencionar que la máquina de anestesia cuenta con manómetros mecánicos que permiten monitorear constantemente la presión de entrada de los tres gases, con el fin de asegurar que se mantengan dentro de los rangos operativos y así evitar alarmas de fallo de suministro.
 
@@ -124,7 +124,7 @@ Para activar, desactivar y configurar la pausa inspiratoria, se accede al menú 
 
 ## Identifiación partes de la máquina de anestesia WATO EX-20
 
-**1.Vaporizador:** Su objetivo es covnertir el agente anestésico líquido en vapor y añadir una cantidad controlada y precisa de este vapor al flujo de gas fresco que va hacia el paciente. Estos se sitúan a un costado de los flujómetros.
+**1. Vaporizador:** Su objetivo es covnertir el agente anestésico líquido en vapor y añadir una cantidad controlada y precisa de este vapor al flujo de gas fresco que va hacia el paciente. Estos se sitúan a un costado de los flujómetros.
 
 <div align="center">
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a7add11e-289c-4d89-ba80-2e5f8ca2c161" />
@@ -134,23 +134,46 @@ Para activar, desactivar y configurar la pausa inspiratoria, se accede al menú 
 <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/31fff62b-5287-4000-b3d2-dd4fdb6153d9" />
 </div>
 
-**2.Válvula APL** Esta válvula permite al operador ajustar el límite de presión en el circuito respiratorio. Cuando la presión del circuito excede el valor configurado por el usuario, la válcula se abre para liberar el exceso de gas hacia el sistema de evacuación.
+**2. Válvula APL** Esta válvula permite al operador ajustar el límite de presión en el circuito respiratorio. Cuando la presión del circuito excede el valor configurado por el usuario, la válcula se abre para liberar el exceso de gas hacia el sistema de evacuación.
 
 <div align="center">
 <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/bf4f1e0c-450c-4300-b46c-759a10262314" />
 </div>
 
-**3.Recipiente absorbente de CO2:** También conocido como Canister, es el responsable de eliminar el dióxido de carbono. Este contiene cal sodada que tiene la función química de poder eliminar el CO2, proveniente del gas exhalado por el paciente, recirculando de forma segura el sistema de bluce cerrado.
+**3. Recipiente absorbente de CO2:** También conocido como Canister, es el responsable de eliminar el dióxido de carbono. Este contiene cal sodada que tiene la función química de poder eliminar el CO2, proveniente del gas exhalado por el paciente, recirculando de forma segura el sistema de bluce cerrado.
 
 <div align="center">
 <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/930ae7b7-8a5f-4534-9d2d-69261d3fd152" />
 </div>
 
-**4.Fuelle:** Actúa como la interfaz entre el sistema de gas motriz del ventilador y el gas que respira el paciente durante la ventilación mecánica. Este se comprime para entregar el volumen de gas al paciente y se expande durante la fase de exhalación para almacenar el gas espirado.
+**4. Fuelle:** Actúa como la interfaz entre el sistema de gas motriz del ventilador y el gas que respira el paciente durante la ventilación mecánica. Este se comprime para entregar el volumen de gas al paciente y se expande durante la fase de exhalación para almacenar el gas espirado.
 
 <div align="center">
 <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/3e967af5-157c-4e3c-b09b-6c627171daf4" />
 </div>
+
+## Mensaje "Batería en uso" en el ventilador y paciente se encuentra conectado
+
+De acuerdo a la sección de alarmas del manual, en caso que el equipo muetre el mensaje "Batería en uso" mientras el paciente se encuentra conectado, se deben ejecutar una serie de acciones de seguridad:
+
+1. Verificar la conexión a la red electrica, comprobando y el cable de alimentación está correctamente enchufado o el interruptor prinicpal se encuentra encendido.
+
+2. Monitorear el indicador de carga, ya que al estar en modo batería, se debe observar el icono de estado de carga. En caso que la batería se encuentre en nivel bajo, el sistema activará una alarma de "Batería Baja".
+
+3. Preparar ventilación de respaldo, en caso que no se pueda restaurar la energía eléctrica de inmediato. El manual recomienda estar preparado para realizar ventilación manual usando la bolsa de anestesia o un resucitador manual.
+
+4. Revisar los fusibles, en caso que el mensaje persista y el equipo se encuentre enchufado, verificando el estado de los fusibles del módulo de entrada de energía.
+
+## Reemplazo del Canister
+
+De acuerdo con el manual, el recipiente absorbente de CO2 no posee un tiempo fijo para ser cambiado, sino en el estado en que se encuentre el agente absorbente y los protocolos de bioseguridad. Para evaluar su reemplazo, se mencionan los siguientes criterior:
+
+**1. Cambio de color del absorbente:** El recipiente debe vaciarse y recargarse con cal sodada nueva cuando este cambie de color.
+**2. Monitoreo de Co2 Inspirado:** Si durante una intervención quirúrigca el monitor de gases indica que los niveles de FiCO2 empiezan a elevarse por encima de los niveles normales, es una señal para reemplazar el absorbente
+**3. Mantenimiento preventivo:** Es importante mencionar que durante las inspecciones de mantenimiento preventivo, se debe verificar la integridad física del recipiente y el estado de los empaques para asegurar que no existan fugas en el sistema de respiración.
+
+Además, se hacen advertencias con respecto al polvo de Cal Sodada, ya que, luego de realizar su reemplazo el manual instruye limpiar cualquier residuo de polvo en los bordes del recipiente, con el propósito de evitar fugas de gas y asegurar un sellado hermético al volver a instalarlo
+
 
 # REFERENCIAS.
 
