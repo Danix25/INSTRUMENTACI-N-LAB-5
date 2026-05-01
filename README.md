@@ -39,6 +39,6 @@ Con base a los principios básicos de anestesiología clínica, se distinguen tr
 **3. Anestesia local:** Este método bloquea temporalmente el dolor en una pequeña zona del cuerpo. Los profesionales sanitarios la utilizan con frecuencia antes de procedimientos menores, como tratamiento dentales y biopsias. Estas se aplican directamente en el sitio de la incisión con el objetivo de bloquear el dolor de forma superficial, teniendo efectos secundarios leves y complicaciones poco frecuentes.
 
 <div align="center">
-<img width="3872" height="2592" alt="image" src="https://github.com/user-attachments/assets/6a86fa49-c328-47a5-a8e4-c5220b4e7c70" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6a86fa49-c328-47a5-a8e4-c5220b4e7c70" />
 </div>
 
