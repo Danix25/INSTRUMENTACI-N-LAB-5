@@ -97,3 +97,25 @@ Con base al manual de servicio, se menciona que el sistema de respiración está
 <div align="center">
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/98bca8eb-94d4-4d9a-80e9-44482fcae6e1" />
 </div>
+
+## Submenús del ventilador
+
+Con base a las especificaciones de la máquina de anestesia Mindray WATO EX-20, al acceder al menú principal se despliega una serie de submenús funcionales, los cuales son:
+
+<div align="center">
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/f718773c-7177-47cd-9d1f-78697466e809" />
+</div>
+
+- **Display Setup:** En este apartado se permite al usuario ajustar los parámetros visuales, como las formas de presión y flujo que se muestran en tiempo real, además del volumen de las alarmas y teclas del equipo.
+
+- **Alarm Setup:** Aquí se establecen los límites superior en inferior para las alarmas de presión de las vías respiratorias, volumen corriente (Vt), volumen minuto (Vm) y frecuencia respiratoria.
+
+- **Patient Setup:** En esta zona se ingresa y ajustan los datos del paciente, para que el ventilador sugiera parámetros iniciales.
+
+- **Mantenimiento:** En este apartado técnico se realizan las calibraciones de algunos componentes de la máquina como los sensores de flujo, sensores de presión y la celda de oxígeno.
+
+- **Servie/Diagnostic:** Esta zona es reservada para el servicio técnico, ya que permite conoce los valores A/D de los sensores y el estado de las válvulas de control
+
+## Activación de pausa inspiratoria
+
+Para activar, desactivar y configurar la pausa inspiratoria, se accede al menú de Configuración de Parámetros, asociado a los modos de ventilación. La pausa inspiratoria se define como el tiempo adicional al final de una inspiración durante el cual la válvula de exhalación permanece cerrada y no hay flujo de gas, lo que permite que la presión se distribuya uniformemente en los pulmones del paciente para medir la presión de meseta. Esto se activa ajustando el parámetro "Plat", donde se representa el porcentaje del tiempo inspiratorio que se dedicará a la pausa.
