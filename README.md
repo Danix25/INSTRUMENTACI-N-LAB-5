@@ -1,4 +1,4 @@
-# Reconocimiento de partes y funcionamiento de una máquina de anestesia
+  # Reconocimiento de partes y funcionamiento de una máquina de anestesia
 
 Samuel Joel Peña Rojas
 
@@ -185,6 +185,43 @@ De acuerdo con el manual, el recipiente absorbente de CO₂ no cuenta con un int
 
 Adicionalmente, el manual advierte sobre la presencia de polvo de cal sodada. Tras realizar el reemplazo del absorbente, se recomienda limpiar cuidadosamente cualquier residuo en los bordes del recipiente, con el propósito de evitar fugas de gas y garantizar un sellado hermético al reinstalar el componente.
 
+## Verificación de fuga en el cilindro de alta presión
+
+Para verificar fugas en el sistema de cilindros de presión, es requerido aplicar el siguiente procedimiento:
+
+**1. Desconexión de Suministros Externos:** Se tiene que asegurar de que las mangueras de suministro de red central o Pipeline estén desconectadas de las tomas de pared para evitar interferencias en la medición de presión.
+
+**2. Preparación del ventilador:** coloca el interruptor del sistema en la posición ON y asegurar que el equipo se encuentre en modo espera.
+
+**3. Apertura de cilindros:** Abre completamente la válvula de cada cilindro usando la llave correspondiente, esto haciendolo uno a la vez.
+
+**4. estabilización y registro:** Observar el manómetros de presión de cilindro en el panel frontal de la máquina y cuando la aguja se estabilice, se debe registrar el valor de presión indicado.
+
+**5. Cerrar firmemente la válvula del cilindro.**
+
+**6. Observación de la caída de presión:** Se debe monitorear el manómetros durante un periodo de un minuto. Si la caída de presión es menor a 50 psi (345 kPa) en el lapzo de tiempo, el sistema no posee fugas y se considera hermético. Sin embargo, en caso de que la caída de presión supere este valor, puede haber una fuga en el ensamble del Yoke, el regulador de alta presión o en las conexiones internas de alta presión.
+
+Cabe destacar que, cada conexión de cilindro cuenta con una válvula de retención para evitar el retorno del gas al cilindro o el escape del mismo si no hay un cilindro instalado.
+
+## Sensor de O2 para la prueba en el sistema de control de flujo
+
+La presencia del sensor de O2 influye de gran manera en las pruebas y en el monitoreo del sistema de control de flujo, ya que este sensor es el único componente capaz de medir la concentración de oxígeno que sale del sistema de mezcla de gases hacia el paciente. Además, el sensor se usa para verificar que el sistema de cadena mecánica mantenga una concentración de oxígeno de al menos el 21%. Con ausencia de este componente no será posible obtener una lectura electrónica para confirmar que la mezcla es segura.
+
+De igual manera, el sensor de O2 debe estar instalado y calibrado para que el ventilador pueda ejercer mediciones precisas. Si el sensor no está presente o está agotado, el equipo puede generar alarmas que impiden completar correctamente la secuencia de autopruebas del sistema. Es importante mencionar que en las pruebas para el sistema de flujo, el sensor debe estar calibrado con respecto al medio ambiente, con el propósito de evitar mezcla de gases erróneas e ineficiencia en el sistema de control de flujo.
+
+Por consiguiente, el sensor de O2 actúa como un alvaguarda. En caso que el sistema de flujo presente fallas mecánicas, el sensor estará encargado de disparar la alarma de "Concentración de O2 baja". 
+
+## Importancia del sistema de presión negativa
+
+El sistema de presión negativa es necesario para el funcionamiento del sistema de evacuación de Gases anestésicos de tipo activo. Sus funciones son las siguientes:
+
+- Extraer de forma segura los gases excedentes y exhalados fuera del entorno del quirófano. Aquí el sistema una fuente de vacío o aire comprimido para generar un flujo de presión negativa que succiona los gases desde la salida de la válcula de exhalación del ventilador.
+
+- Prevenir que los gases anestésicos volátiles se dispersen en el aire de la sala de cirugía, lo que representaría un riesgo para la salud del personal médico.
+
+- El sistema de presión negativa cuenta con un indicador de flotador en el sistema de evacuación de gases anestésicos, el cual debe ajustarse de modo que se mantenga entre las dos marcas indicadoras durante su funcionamiento.
+
+- Aspirar los gases residuales y el aire de la sala, asegurando que la presión negativa de la fuente de vacío no se transmita directamente al circuito del paciente, lo que causaría el colapso del fuelle o daños pulmonares.
 
 
 # PARTE C
