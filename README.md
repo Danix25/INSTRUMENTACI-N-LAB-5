@@ -226,6 +226,30 @@ El sistema de presión negativa es esencial para el funcionamiento de los sistem
 
 # PARTE C
 
+##¿Qué tipos de anestésicos son los más usados en cirugía?
+
+Los anestésicos más usados en cirugía se dividen en:
+- Anestesia general: duerme completamente al paciente. Ejemplos: Propofol y Sevoflurano.
+- Anestesia regional: bloquea una parte del cuerpo, como la epidural o raquídea.
+- Anestesia local: adormece solo una zona pequeña. Ejemplo: Lidocaína.
+
+
+##¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+
+El modelo WATO EX-35 plantea mejoras frente al EX-20 principalmente en:
+
+- Pantalla táctil más avanzada y de mayor tamaño.
+- Más modos de ventilación y monitoreo respiratorio.
+- Mejor visualización de curvas y parámetros en tiempo real.
+- Integración de monitoreo de gases anestésicos y EtCO₂.
+- Sistema de alarmas y seguridad más completo.
+
+
+##¿Qué tipo de bomba de infusion utiliza la maquina de anestesia?  
+
+La máquina de anestesia normalmente utiliza una bomba de infusión volumétrica o una bomba de jeringa, dependiendo del medicamento que se administre.
+
+Las más usadas en anestesia son las bombas de jeringa, porque permiten administrar anestésicos y medicamentos con mucha precisión y en dosis pequeñas.
 
 # REFERENCIAS.
 
