@@ -226,30 +226,50 @@ El sistema de presión negativa es esencial para el funcionamiento de los sistem
 
 # PARTE C
 
-##¿Qué tipos de anestésicos son los más usados en cirugía?
+## ¿Qué tipos de anestésicos son los más usados en cirugía?
 
-Los anestésicos más usados en cirugía se dividen en:
-- Anestesia general: duerme completamente al paciente. Ejemplos: Propofol y Sevoflurano.
-- Anestesia regional: bloquea una parte del cuerpo, como la epidural o raquídea.
-- Anestesia local: adormece solo una zona pequeña. Ejemplo: Lidocaína.
+- Los anestésicos inhalatorios 
+
+El más usado hoy en día es el sevoflurano, valorado por su inducción suave y recuperación rápida, siendo ideal incluso para niños. El desflurano se prefiere en cirugías prolongadas por su recuperación ultrarápida, aunque requiere un vaporizador especial. El isoflurano, más antiguo, sigue vigente en contextos de menores recursos. El óxido nitroso se utiliza como complemento, aportando analgesia leve y reduciendo las dosis de otros agentes.
+
+- Los anestésicos intravenosos
+  
+El propofol es el más empleado, tanto para inducir como para mantener la anestesia, gracias a su perfil de recuperación limpio y rápido. La ketamina destaca por sus propiedades disociativas y analgésicas, siendo especialmente útil en urgencias y en pacientes hemodinámicamente inestables. El etomidato se reserva para pacientes con compromiso cardiovascular, ya que altera mínimamente la presión arterial y la frecuencia cardíaca.
+
+- Los opioides
+  
+El fentanilo es el más frecuente en quirófano por su potencia y acción rápida. El remifentanilo, de vida ultracorta, se administra en infusión continua cuando se requiere un ajuste fino de la analgesia. La morfina se utiliza principalmente al cierre del procedimiento para el manejo del dolor postoperatorio.
+
+- Los relajantes musculares
+  
+El rocuronio es actualmente el más utilizado, en parte porque cuenta con un reversor específico llamado sugammadex. La succinilcolina mantiene su lugar en la intubación de secuencia rápida por su acción ultracorta.
+
+- Los anestésicos locales
+  
+La bupivacaína es la más usada en bloqueos periféricos y anestesia espinal por su larga duración. La lidocaína es versátil y se emplea en infiltraciones, bloqueos y hasta por vía intravenosa. La ropivacaína ofrece un perfil similar a la bupivacaína, pero con menor riesgo de cardiotoxicidad.
 
 
-##¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
-
-El modelo WATO EX-35 plantea mejoras frente al EX-20 principalmente en:
-
-- Pantalla táctil más avanzada y de mayor tamaño.
-- Más modos de ventilación y monitoreo respiratorio.
-- Mejor visualización de curvas y parámetros en tiempo real.
-- Integración de monitoreo de gases anestésicos y EtCO₂.
-- Sistema de alarmas y seguridad más completo.
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fc895e3d-b07d-4162-b900-1da20851acb8" />
 
 
-##¿Qué tipo de bomba de infusion utiliza la maquina de anestesia?  
 
-La máquina de anestesia normalmente utiliza una bomba de infusión volumétrica o una bomba de jeringa, dependiendo del medicamento que se administre.
+## ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
 
-Las más usadas en anestesia son las bombas de jeringa, porque permiten administrar anestésicos y medicamentos con mucha precisión y en dosis pequeñas.
+Tanto la WATO EX-20 como la EX-35 son máquinas de anestesia de la marca Mindray, pero están pensadas para niveles distintos de complejidad clínica. La EX-20 es el modelo de entrada, diseñado para entornos con limitaciones de espacio y procedimientos más estándar. Su tamaño compacto se adapta bien a quirófanos con poco espacio, y cuenta con ventilación controlada electrónicamente que soporta tanto ventilación mecánica como respiración espontánea. 
+La EX-35, en cambio, es un escalón por encima. Incorpora una pantalla táctil de 10,4 pulgadas con acceso rápido a parámetros y un diseño de menú más plano e intuitivo, lo que facilita los ajustes durante el procedimiento. Eso ya marca una diferencia importante frente a la EX-20, que trabaja con pantalla más pequeña y controles por botones y perilla. RIESTER MEXICO
+En cuanto a capacidad, la EX-35 maneja un volumen tidal desde 20 ml, lo que la hace apta para pacientes neonatales, pediátricos y adultos en un solo equipo, sin necesidad de cambiar el circuito. 
+Otra diferencia notable está en el monitoreo de gases. La EX-35 incluye un módulo AG integrado tipo "Plug-and-play" con identificación automática de hasta 5 agentes anestésicos más N2O, algo que la EX-20 no trae de serie en su configuración básica. 
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0f8f9f18-3f36-45fd-951d-728c3715cb77" />
+
+
+## ¿Qué tipo de bomba de infusion utiliza la maquina de anestesia?  
+
+Las máquinas de anestesia, dependiendo del contexto clínico y de la técnica anestésica que se vaya a usar, trabajan con distintos tipos de bombas de infusión. La más usada en la práctica diaria es la bomba de jeringa, que básicamente toma una jeringa precargada con el medicamento y la empuja de forma controlada mediante un motor. La precisión que logra es bastante impresionante, especialmente cuando se manejan fármacos con márgenes terapéuticos estrechos.
+Ahora bien, cuando se habla de anestesia total intravenosa, o TIVA, entran en juego las bombas TCI (Target-Controlled Infusion) van un paso más allá, en lugar de programar una velocidad de infusión fija, el anestesiólogo define una concentración objetivo, ya sea en plasma o directamente en el sitio efector, y la bomba se encarga de calcular sola cuánto fármaco dar y cuándo. Para eso usa modelos farmacocinéticos validados, como el modelo de Marsh o Schnider para el propofol, o el de Minto para el remifentanilo.
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f98d5d5d-5e7d-4ea1-8cfc-e995608e0788" />
+
 
 # REFERENCIAS.
 
